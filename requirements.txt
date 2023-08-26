@@ -1,0 +1,7 @@
+git+https://github.com/SteelPangolin/genderize.git
+openpyxl
+pandas
+selenium
+requests
+urllib3
+undetected_chromedriver
