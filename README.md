@@ -1,3 +1,3 @@
 # CrawlerFigures
 
-A project that scrap data from website, Uses selenium and python.
+A crawler project that scraps data from websites and puts it into photos and Excel files, uses Selenium and Python.
